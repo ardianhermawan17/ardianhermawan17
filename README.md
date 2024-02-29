@@ -16,7 +16,7 @@ My name is Imanuddin Ardian Hermawan, you can call me Ardian, I am an associate'
 - 🔭 I’m currently working on ITS (Institute Teknologi Sepuluh Nopember)
 - 🌱 I’m currently learning Software Engineer
 - 👯 I’m looking to collaborate on Overseas Company
-- 📫 How to reach me: https://www.linkedin.com/in/imanuddin-ardian-hermawan-059963170/
+- 📫 How to reach me: https://www.linkedin.com/in/imanuddin-ardian-hermawan/
 
 <!--### My Stats 🔭
 
