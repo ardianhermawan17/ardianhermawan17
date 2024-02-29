@@ -13,10 +13,14 @@ My name is Imanuddin Ardian Hermawan, you can call me Ardian, I am an associate'
 - 📫 How to reach me: https://www.linkedin.com/in/imanuddin-ardian-hermawan-059963170/
 - 
 -->
+- 🔭 I’m currently working on ITS (Institute Teknologi Sepuluh Nopember)
+- 🌱 I’m currently learning Software Engineer
+- 👯 I’m looking to collaborate on Overseas Company
+- 📫 How to reach me: https://www.linkedin.com/in/imanuddin-ardian-hermawan-059963170/
 
-### My Stats 🔭
+<!--### My Stats 🔭
 
-<img src="https://github-readme-stats.vercel.app/api?username=ardianhermawan17&show_icons=true&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ardianhermawan17&show_icons=true&theme=vue-dark"> -->
 
 ### Most used Languange 🔭
 
